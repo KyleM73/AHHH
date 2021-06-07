@@ -5,6 +5,8 @@ AHHH is an esoteric programming language inspired by the all-consuming dread ind
 
 Programming languages can shape everything about an alogithm, from its speed, effiency, and modularity all the way down to its aesthetics. In that vain, I wanted to write a programming language that was an absolute bitch to use. Just the absolute worst. A miserable experience for everyone involved. I think - in that goal - I have succeeded. Good luck...
 
+### Setup
+
 I've provided a number of demo files:
 * fib.ahhh
   * Explicitly generates the first ~46 fibonacci numbers. I stopped at 46 because any larger yields an overflow error, since I'm using c++ ints. I could fix that, but I won't.
