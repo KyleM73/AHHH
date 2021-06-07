@@ -61,6 +61,6 @@ Code | Command | Function
 14 | HHHh | Square the value of the current memory cell and store it in the current memory cell.
 15 | HHHH | If the current memory cell is nonzero, continue to the next command. Otherwise, skip one command, and then skip ahead to the next matching hhhh command (begin loop).
 16 | AHHH | Start program.
-17 | hhh! | New line (useful after printing ASCII characters, which otherwise don't print a new line).
+17 | hhh! | Print new line (useful after printing ASCII characters, which otherwise don't print a new line).
 
 As you can see, this language sucks. You won't enjoy it. I think it's pretty [funny](https://www.youtube.com/watch?v=-50NdPawLVY), which is an accomplishment given the number of brain cells I've killed trying to get this to work. Hopefully you think it's at least passively amusing too. If not, idk, go scream about it or something.
