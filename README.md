@@ -31,7 +31,7 @@ Then, to run files, just call the executable with:
     
 If you aren't using linux you probably either:
 1. already know how to compile c++ code on your machine, or
-2. won't get the joke. sorry.
+2. ~~won't get the joke.~~ sorry.
 
 Ok that was mean, I'm sorry, if you want to learn how to compile the code there's a good guide [here](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/)
 
