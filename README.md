@@ -3,7 +3,7 @@
 
 AHHH is an esoteric programming language inspired by the all-consuming dread induced by programming. 
 
-Programming languages can shape everything about an alogithm, from its speed, effiency, and modularity all the way down to its aesthetics. In that vain, I wanted to write a programming language that was an absolute bitch to use. Just the absolute worst. A miserable experience for everyone involved. I think - in that goal - I have succeeded. Enjoy the scream...
+Programming languages can shape everything about an alogithm, from its speed, effiency, and modularity all the way down to its aesthetics. In that vain, I wanted to write a programming language that was an absolute bitch to use. Just the absolute worst. A miserable experience for everyone involved. I think - in that goal - I have succeeded. Sometimes ya just need to scream a little...
 
 To compile the interpreter, run:
 
