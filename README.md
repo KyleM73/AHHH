@@ -33,9 +33,7 @@ Then, to run files, just call the executable with:
    
 If you aren't using linux you probably either:
 1. already know how to compile c++ code on your machine, or
-2. won't get the joke.
-
-Joking, joking, that was mean, I'm sorry, if you want to learn how to compile the code there's a pretty good guide [here](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/) and StackOverflow has a ton of answers about getting started.
+2. should probably use an IDE. Here's a pretty good [guide](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/).
 
 If there's a glaring problem you want me to know about or you otherwise feel strongly inclined, feel free to bug me at kyle.morgenstein@gmail.com or yell at me on Twitter [@KyleMorgenstein](https://twitter.com/KyleMorgenstein).
 
