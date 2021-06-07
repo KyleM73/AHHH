@@ -11,9 +11,9 @@ Programming languages can shape everything about an algorithm, from its speed, e
 
 I've provided a number of demo files:
 * fib.ahhh
-  * Explicitly generates the first ~46 fibonacci numbers. I stopped at 46 because any larger yields an overflow error, since I'm using c++ ints. I could fix that, but I won't.
+  * Explicitly generates the first ~46 Fibonacci numbers. I stopped at 46 because any larger yields overflow, since I'm using c++ ints. I could fix that, but I won't.
 * fib_inf.ahhh
-  * Loops through infinitely many fibonacci numbers. It overflows basically immediately, but the implimentation is kind of cool (and well documented).
+  * Loops through infinitely many Fibonacci numbers. It overflows basically immediately, but the implimentation is kind of cool (and well documented).
 * hello_world.ahhh
   * You know I had to do it to 'em.
 * hello_world_expanded.ahhh
@@ -31,7 +31,7 @@ Then, to run files, just call the executable with:
 
     ./AHHH file.ahhh
    
-If you aren't using linux you probably either:
+If you aren't using linux you either:
 1. already know how to compile c++ code on your machine, or
 2. should probably use an IDE. Here's a pretty good [guide](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/).
 
