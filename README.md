@@ -54,4 +54,4 @@ Code | Command | Function
 15 | HHHH | If the current memory cell is nonzero, continue to the next command. Otherwise, skip one command, and then skip ahead to the next matching hhhh command (begin loop).
 16 | AHHH | Start program.
 
-As you can see, this language sucks. You won't enjoy it. I think it's pretty funny, which is an accomplishment given the number of brain cells I've killed trying to get this to work. Hopefully you enjoy it too. If not, idk, go scream about it or something.
+As you can see, this language sucks. You won't enjoy it. I think it's pretty funny, which is an accomplishment given the number of brain cells I've killed trying to get this to work. Hopefully you think it's at least passively amusing too. If not, idk, go scream about it or something.
