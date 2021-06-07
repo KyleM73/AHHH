@@ -33,6 +33,7 @@ If you aren't using linux you probably either:
 1. already know how to compile c++ code on your machine, or
 2. won't get the joke. sorry.
 
+Ok that was mean, I'm sorry, if you want to learn how to compile the code there's a good guide [here](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/)
 
 If there's a glaring problem you want me to know about or you otherwise feel strongly inclined, feel free to bug me at kyle.morgenstein@gmail.com or yell at me on Twitter [@KyleMorgenstein](https://twitter.com/KyleMorgenstein).
 
@@ -62,4 +63,4 @@ Code | Command | Function
 16 | AHHH | Start program.
 17 | hhh! | New line (useful after printing ASCII characters, which otherwise don't print a new line).
 
-As you can see, this language sucks. You won't enjoy it. I think it's pretty funny, which is an accomplishment given the number of brain cells I've killed trying to get this to work. Hopefully you think it's at least passively amusing too. If not, idk, go scream about it or something.
+As you can see, this language sucks. You won't enjoy it. I think it's pretty [funny](https://www.youtube.com/watch?v=-50NdPawLVY), which is an accomplishment given the number of brain cells I've killed trying to get this to work. Hopefully you think it's at least passively amusing too. If not, idk, go scream about it or something.
