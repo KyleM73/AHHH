@@ -5,8 +5,8 @@
 // www.kylemorgenstein.com
 //
 // License: GPL v3.0
-// Heavily inspired by COW (by BigZaphod)
-// The structure for the compiler was also taken from COW
+// Inspired by COW (by BigZaphod)
+// The structure for the interpreter was also borrowed from COW
 // Feel free to edit/use/distribute, but please don't sell AHHH or any derivative work
 // If you use AHHH, attribution would be cool too, I suppose
 //
