@@ -30,7 +30,7 @@ The expanded hello world program is only 150 lines of code, but in condensed for
 If there's a glaring problem you want me to know about or you otherwise feel strongly inclined, feel free to bug me at kyle.morgenstein@gmail.com or yell at me on Twitter @KyleMorgenstein.
 
 # Language Mechanics
-The language is pretty simple and is heavily based on COW. There's 16 (+1) commands, which are all the capitalization permutations of hhhh to HHHH. The start key is AHHH. The AHHH language has a memory head (pointer) which can be moved along a tape of memory. There are also two registers that values can be read/written from. Anything that isn't a command is a comment. See fib_inf.ahhh or hello_world_expanded.ahhh for examples of comments/documentation.  
+The language is pretty simple and is heavily based on COW. There's 16 (+2) commands, which are all the capitalization permutations of hhhh to HHHH. The start key is AHHH. The AHHH language has a memory head (pointer) which can be moved along a tape of memory. There are also two registers that values can be read/written from. Anything that isn't a command is a comment. See fib_inf.ahhh or hello_world_expanded.ahhh for examples of comments/documentation.  
 
 The commands are as follows:
 
@@ -53,5 +53,6 @@ Code | Command | Function
 14 | HHHh | Square the value of the current memory cell and store it in the current memory cell.
 15 | HHHH | If the current memory cell is nonzero, continue to the next command. Otherwise, skip one command, and then skip ahead to the next matching hhhh command (begin loop).
 16 | AHHH | Start program.
+17 | hhh! | New line (useful after printing ASCII characters, which otherwise don't print a new line).
 
 As you can see, this language sucks. You won't enjoy it. I think it's pretty funny, which is an accomplishment given the number of brain cells I've killed trying to get this to work. Hopefully you think it's at least passively amusing too. If not, idk, go scream about it or something.
