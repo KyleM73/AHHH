@@ -1,0 +1,17 @@
+AHHH start prog
+HhhH increment cell 0
+hhhH move to cell 1
+HhhH increment cell 1
+hhHh move to cell 0
+HHHH start loop
+hhHH print cell
+hHhh copy cell to register 1
+hhhH move to next cell
+hHHh add cell to register 1
+hHhH copy cell to register 2
+hHhh paste value from register 1 to cell
+hhHh move to previous cell
+hHhH paste value from register 2 to cell
+hhhh end loop
+
+

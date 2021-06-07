@@ -1,0 +1,153 @@
+AHHH start prog
+
+HhhH increment cell 0
+HHhH double cell 0
+HHHh square cell 0
+HHHh square cell 0
+HHhH double cell 0
+HHhH double cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+HhhH increment cell 0
+hHhh copy cell 0 to register 1
+Hhhh print cell 0 (H)
+
+hhhH move to cell 1
+HhhH increment cell 1
+HHhH double cell 1
+HHHh square cell 1
+HHHh square cell 1
+HHhH double cell 1
+hHHh add cell 1 to register 1
+hHhh paste register 1 to cell 1
+hHhh copy cell 1 to register 1
+HhHh decrement cell 1
+HhHh decrement cell 1
+HhHh decrement cell 1
+Hhhh print cell 1 (e)
+
+hhhH move to cell 2
+hHhh paste register 1 to cell 1
+HhhH increment cell 2
+HhhH increment cell 2
+HhhH increment cell 2
+HhhH increment cell 2
+hHhh copy cell 2 to register 1
+Hhhh print cell 2 (l)
+
+hhhH move to cell 3
+hHhh paste register 1 to cell 3
+hHhh copy cell 3 to register 1
+Hhhh print cell 3 (l)
+
+hhhH move to cell 4
+hHhh paste register 1 to cell 4
+hHhh copy cell 4 to register 1
+HhhH increment cell 4
+HhhH increment cell 4
+HhhH increment cell 4
+Hhhh print cell 4 (o)
+
+hhhH move to cell 5
+HhhH increment cell 5
+HHhH double cell 5
+HHHh square cell 5
+HHHh square cell 5
+HHhH double cell 5
+hHhH copy cell 5 to register 2
+HHhh zero cell 5
+HhhH increment cell 5
+HHhH double cell 5
+HHHh square cell 5
+HHHh square cell 5
+hHHH add cell 5 to register 2
+hHhH paste register 2 to cell 5
+HhHh decrement cell 5
+HhHh decrement cell 5
+HhHh decrement cell 5
+HhHh decrement cell 5
+Hhhh print cell 5 (,)
+
+hhhH move to cell 6
+HhhH increment cell 6
+HHhH double cell 6
+HHHh square cell 6
+HHHh square cell 6
+HHhH double cell 6
+Hhhh print cell 6 ( )
+
+hhhH move to cell 7
+HhhH increment cell 7
+HHhH double cell 7
+HHHh square cell 7
+HHHh square cell 7
+HHhH double cell 7
+HHhH double cell 7
+hHhH copy cell 7 to register 2
+HHhh zero cell 7
+HhhH increment cell 7
+HHhH double cell 7
+HHHh square cell 7
+HHHh square cell 7
+hHHH add cell 7 to register 2
+HHhh zero cell 7
+HhhH increment cell 7
+HHhH double cell 7
+HHhH double cell 7
+HHhH double cell 7
+hHHH add cell 7 to register 2
+hHhH paste register 2 to cell 7
+HhHh decrement cell 7
+Hhhh print cell 7 (W)
+
+hhhH move to cell 8
+hHhh paste register 1 to cell 8
+HhhH increment cell 8
+HhhH increment cell 8
+HhhH increment cell 8
+hHhh copy cell 8 to register 1
+Hhhh print cell 8 (o)
+
+hhhH move to cell 9
+hHhh paste register 1 to cell 9
+hHhh copy cell 9 to register 1
+HhhH increment cell 9
+HhhH increment cell 9
+HhhH increment cell 9
+Hhhh print cell 9 (r)
+
+hhhH move to cell 10
+hHhh paste register 1 to cell 10
+HhHh decrement cell 10
+HhHh decrement cell 10
+HhHh decrement cell 10
+hHhh copy cell 10 to register 1
+Hhhh print cell 10 (l)
+
+hhhH move to cell 11
+hHhh paste register 1 to cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+HhHh decrement cell 11
+Hhhh print cell 11 (d)
+
+hhhH move to cell 12
+HhhH increment cell 12
+HHhH double cell 12
+HHHh square cell 12
+HHHh square cell 12
+HHhH double cell 12
+HhhH increment cell 12
+Hhhh print cell 12 (!)
+
+hhh! new line
