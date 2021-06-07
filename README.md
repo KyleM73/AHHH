@@ -32,7 +32,7 @@ The expanded hello world program is only 150 lines of code, but in condensed for
 
     AHHHHhhHHHhHHHHhHHHhHHhHHHhHHhhHHhhHHhhHHhhHHhhHHhhHHhhHHhhHhHhhHhhhhhhHHhhHHHhHHHHhHHHhHHhHhHHhhHhhhHhhHhHhHhHhHhHhHhhhhhhHhHhhHhhHHhhHHhhHHhhHhHhhHhhhhhhHhHhhhHhhHhhhhhhHhHhhhHhhHhhHHhhHHhhHHhhhhhhHHhhHHHhHHHHhHHHhHHhHhHhHHHhhHhhHHHhHHHHhHHHhhHHHhHhHHhHhHhHhHhHhHhHhHhhhhhhHHhhHHHhHHHHhHHHhHHhHHhhhhhhHHhhHHHhHHHHhHHHhHHhHHHhHhHhHHHhhHhhHHHhHHHHhHHHhhHHHHHhhHhhHHHhHHHhHHHhHhHHHhHhHHhHhHhhhhhhHhHhhHhhHHhhHHhhHhHhhHhhhhhhHhHhhhHhhHhhHHhhHHhhHHhhhhhhHhHhhHhHhHhHhHhHhhHhhHhhhhhhHhHhhHhHhHhHhHhHhHhHhHhHhHhHhHhHhHhHhHhhhhhhHHhhHHHhHHHHhHHHhHHhHHhhHHhhhhhh!
 
-If there's a glaring problem you want me to know about or you otherwise feel strongly inclined, feel free to bug me at kyle.morgenstein@gmail.com or yell at me on Twitter @KyleMorgenstein.
+If there's a glaring problem you want me to know about or you otherwise feel strongly inclined, feel free to bug me at kyle.morgenstein@gmail.com or yell at me on Twitter [@KyleMorgenstein](https://twitter.com/KyleMorgenstein).
 
 # Language Mechanics
 The language is pretty simple and is heavily based on COW. There's 16 (+2) commands, which are all the capitalization permutations of hhhh to HHHH. The start key is AHHH. The AHHH language has a memory head (pointer) which can be moved along a tape of memory. There are also two registers that values can be read/written from. Anything that isn't a command is a comment. See fib_inf.ahhh or hello_world_expanded.ahhh for examples of comments/documentation.  
