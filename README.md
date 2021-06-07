@@ -13,6 +13,11 @@ Then, to run files, just call the executable with:
 
     ./AHHH file.ahhh
     
+If you aren't using linux you probably either:
+1. already know how to compile c++ code on your machine, or
+2. won't get the joke. sorry.
+
+
 I've provided a number of demo files:
 * fib.ahhh
   * Explicitly generates the first ~46 fibonacci numbers. I stopped at 46 because any larger yields an overflow error, since I'm using c++ ints. I could fix that, but I won't.
