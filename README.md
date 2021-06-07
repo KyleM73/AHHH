@@ -50,8 +50,8 @@ Code | Command | Function
 3 | hhHH | Print the current memory cell as an integer.
 4 | hHhh | If Register 1 is empty, copy the current memory cell to the register. Otherwise, write the Register 1 value to the current memory cell.
 5 | hHhH | If Register 2 is empty, copy the current memory cell to the register. Otherwise, write the Register 2 value to the current memory cell.
-6 | hHHh | Add the current memory cell to the value of Register 1 and store it in Register 1. The memory cell is unchanged. 
-7 | hHHH | Add the current memory cell to the value of Register 2 and store it in Register 2. The memory cell is unchanged. 
+6 | hHHh | Add the current memory cell to the value of Register 1 and store the sum in Register 1. The memory cell is unchanged. 
+7 | hHHH | Add the current memory cell to the value of Register 2 and store the sum in Register 2. The memory cell is unchanged. 
 8 | Hhhh | If the current memory cell is nonzero, print the cell as an ASCII character. Otherwise, read in an ASCII character from the console.
 9 | HhhH | Increment the current memory cell by one.
 10 | HhHh | Decrement the current memory cell by one.
