@@ -1,4 +1,4 @@
-# AHHH: a programming language for spooks
+# AHHH: a programming language for the dreadful
 ### Screaming into the Void but make it Turing Complete
 
 AHHH is an esoteric programming language inspired by the all-consuming dread induced by programming. 
