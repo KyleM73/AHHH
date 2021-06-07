@@ -5,7 +5,7 @@ AHHH is an esoteric programming language inspired by the all-consuming dread ind
 
 ![SpoOoOoOoKy](https://www.fg-a.com/halloween/computer-ghost-black-white.jpg)
 
-Programming languages can shape everything about an alogithm, from its speed, effiency, and modularity all the way down to its aesthetics. In that vain, I wanted to write a programming language that was an absolute bitch to use. Just the absolute worst. A miserable experience for everyone involved. I think - in that goal - I have succeeded. Good luck...
+Programming languages can shape everything about an algorithm, from its speed, effiency, and modularity all the way down to its aesthetics. In that vain, I wanted to write a programming language that was an absolute bitch to use. Just the absolute worst. A miserable experience for everyone involved. I think - in that goal - I have succeeded. Good luck...
 
 ### Setup
 
