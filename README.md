@@ -9,6 +9,18 @@ Programming languages can shape everything about an algorithm, from its speed, e
 
 ### Setup
 
+To compile the interpreter, run:
+
+    g++ -Wall interpret_ahhh.cpp -o AHHH
+
+Then, to run files, just call the executable with:
+
+    ./AHHH file.ahhh
+   
+If you aren't using linux you either:
+1. already know how to compile c++ code on your machine, or
+2. should probably use an IDE. Here's a pretty good [guide](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/).
+
 I've provided a number of demo files:
 * fib.ahhh
   * Explicitly generates the first ~46 Fibonacci numbers. I stopped at 46 because any larger yields overflow, since I'm using c++ ints. I could fix that, but I won't.
@@ -22,18 +34,6 @@ I've provided a number of demo files:
 The expanded hello world program is only 150 lines of code, but in condensed form is actually quite simple:
 
     AHHHHhhHHHhHHHHhHHHhHHhHHHhHHhhHHhhHHhhHHhhHHhhHHhhHHhhHHhhHhHhhHhhhhhhHHhhHHHhHHHHhHHHhHHhHhHHhhHhhhHhhHhHhHhHhHhHhHhhhhhhHhHhhHhhHHhhHHhhHHhhHhHhhHhhhhhhHhHhhhHhhHhhhhhhHhHhhhHhhHhhHHhhHHhhHHhhhhhhHHhhHHHhHHHHhHHHhHHhHhHhHHHhhHhhHHHhHHHHhHHHhhHHHhHhHHhHhHhHhHhHhHhHhHhhhhhhHHhhHHHhHHHHhHHHhHHhHHhhhhhhHHhhHHHhHHHHhHHHhHHhHHHhHhHhHHHhhHhhHHHhHHHHhHHHhhHHHHHhhHhhHHHhHHHhHHHhHhHHHhHhHHhHhHhhhhhhHhHhhHhhHHhhHHhhHhHhhHhhhhhhHhHhhhHhhHhhHHhhHHhhHHhhhhhhHhHhhHhHhHhHhHhHhhHhhHhhhhhhHhHhhHhHhHhHhHhHhHhHhHhHhHhHhHhHhHhHhHhhhhhhHHhhHHHhHHHHhHHHhHHhHHhhHHhhhhhh!
-
-To compile the interpreter, run:
-
-    g++ -Wall interpret_ahhh.cpp -o AHHH
-
-Then, to run files, just call the executable with:
-
-    ./AHHH file.ahhh
-   
-If you aren't using linux you either:
-1. already know how to compile c++ code on your machine, or
-2. should probably use an IDE. Here's a pretty good [guide](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/).
 
 If there's a glaring problem you want me to know about or you otherwise feel strongly inclined, feel free to bug me at kyle.morgenstein@gmail.com or yell at me on Twitter [@KyleMorgenstein](https://twitter.com/KyleMorgenstein).
 
