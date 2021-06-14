@@ -31,7 +31,7 @@ bool register2_has_value = false;
 void quit(bool error)
 {
     if (error) {
-        printf("Error!/n");
+        printf("Error!\n");
         exit(1);
     }
 #ifndef NO_GREETINGS
